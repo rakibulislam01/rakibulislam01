@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://stackexchange.com/users/8048655/rakibul-islam"><img src="https://stackexchange.com/users/flair/8048655.png" width="208" height="58" alt="profile for Rakibul Islam on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Rakibul Islam on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
 ## Tech Stack :computer:
 
@@ -67,7 +66,7 @@ Here are some ideas to get you started:
 
 
 <p align="center"> 
-  <a https://stackoverflow.com/users/6068032/rakibul-islam?tab=profile>
+  <a href="https://stackoverflow.com/users/6068032/rakibul-islam?tab=profile">
     <img src="https://img.shields.io/stackexchange/stackoverflow/r/6068032?logo=stackoverflow&style=for-the-badge" />
   </a>
   <a href="https://github.com/rakibulislam01?tab=followers">
