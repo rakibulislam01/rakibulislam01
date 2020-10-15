@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <td align="center" width="20%">
 <span><b><center>Django</center></b></span> 
-<img height=65px src="https://iconscout.com/icon/django-2"> 
+<img height=65px src="https://static.djangoproject.com/img/logos/django-logo-positive.png"> 
 </td>
 </tr>
 
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 <td align="center" width="20%">
 <span><b><center>Apache</center></b></span> 
-<img height=65px src="https://pin.it/70uBxfr"> 
+<img height=65px src="https://www.freepngimg.com/thumb/computer/58645-web-http-servers-computer-linux-apache-installation.png"> 
 </td>
 </tr>
 
