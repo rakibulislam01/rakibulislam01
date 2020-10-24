@@ -11,7 +11,7 @@ Here are some ideas to get you started:	Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->	
-## Tech Stack :computer:	## Tech Stack :computer:
+## Tech Stack :computer:
 <br>
 <table>
 <tbody>
