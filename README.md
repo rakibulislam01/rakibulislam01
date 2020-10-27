@@ -64,9 +64,6 @@ Here are some ideas to get you started:	Here are some ideas to get you started:
   <a href="https://stackoverflow.com/users/6068032/rakibul-islam?tab=profile">
     <img src="https://img.shields.io/stackexchange/stackoverflow/r/6068032?logo=stackoverflow&style=for-the-badge" />
   </a>
-  <a href="https://github.com/rakibulislam01?tab=followers">
-    <img src="https://img.shields.io/github/followers/rakibulislam01?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
   <a href="http://twitter.com/t_rakibul">
     <img src="https://img.shields.io/twitter/follow/t_rakibul?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
